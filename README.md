@@ -1,4 +1,4 @@
-![File Icon](/src/images/readme-icon.png)
+![File Icon](/images/readme-icon.png)
 
 ## The Orange Slider
 
@@ -22,7 +22,7 @@
 
 ---
 
-[![Screenshot from Project](/src/images/readme-screenshot.gif)](#https://rubensinzig.github.io/the_orange_slider/)
+[![Screenshot from Project](/images/readme-screenshot.gif)](#https://rubensinzig.github.io/the_orange_slider/)
 
 ### About Project
 
